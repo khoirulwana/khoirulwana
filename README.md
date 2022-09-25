@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h3 align="left">My GitHub Stats</h3>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=khoirulwana&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoirulwana&layout=compact" />
-<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=khoirulwana" />
+<img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=khoirulwana" />
 
 
 <h3 align="left">Languages and Tools:</h3>
