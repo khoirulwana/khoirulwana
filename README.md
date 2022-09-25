@@ -22,11 +22,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+
 <h3 align="left">My GitHub Stats</h3>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=khoirulwana&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoirulwana&layout=compact" />
-<img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=khoirulwana" />
+<br/>
+
+<p align="center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=khoirulwana" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
