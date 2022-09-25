@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="header.png">
+<img align="right" alt="Coding" width="100%" height="auto" src="header.png">
 
 <p align="center">
 
