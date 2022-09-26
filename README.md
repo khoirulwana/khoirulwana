@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100%" height="auto" src="header.png">
+### Hi there 👋, I'm [Khoirul Wakiah Nasution](https://www.github.com/khoirulwana) 
 
 <p align="center">
 
@@ -6,7 +6,7 @@
 
 </p>
 
-<!--### Hi there 👋, I'm [Khoirul Wakiah Nasution](https://www.github.com/khoirulwana) 
+<!--
 
 **khoirulwana/khoirulwana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
