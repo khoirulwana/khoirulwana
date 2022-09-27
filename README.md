@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 <p align="center">
 <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=khoirulwana" />
 </p>
-
+<br />   
+<br />   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
 
@@ -46,6 +47,8 @@ Here are some ideas to get you started:
 
 </p>
 
+<br />   
+<br />   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
